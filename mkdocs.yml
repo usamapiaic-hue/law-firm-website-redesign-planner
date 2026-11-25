@@ -1,0 +1,10 @@
+site_name: "Law Firm Website Redesign Planner"
+site_description: "A step-by-step planner for redesigning a law firm website without losing rankings or leads, by Legal Web Agency."
+site_author: Legal Web Agency
+site_url: https://law-firm-website-redesign-planner.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - "Law Firm Website Redesign Planner": index.md
+markdown_extensions:
+  - tables
